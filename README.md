@@ -19,3 +19,9 @@ The equilibrium constructed by the algorithm is recorded in the Excel file resul
 * If values are uniformly distributed, there is also a fourth column which records the predictions of an 'analogous' continuous model. In the 'analogous' model, bids can be any real number (not just integers); and values are are drawn from a continuous uniform distribution on [0, x] where x is the maximum possible value (which you yourself will have specified when running the code).
 
 After constructing the equilibrium, the program then checks (by direct calculation) that it is indeed an equilibrium. The result of this check is printed in the terminal.
+
+## Suggested citation
+
+If you want to use this tool in your work, please cite the following (preliminary) paper:
+
+Rasooly, I (2021). Going... going... wrong: a test of the level-k (and cognitive hierarchy) models of bidding behaviour [unpublished manuscript]. Department of Economics, University of Oxford.
