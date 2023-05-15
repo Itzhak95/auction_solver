@@ -24,4 +24,4 @@ After constructing the equilibrium, the program then checks (by direct calculati
 
 If you want to use this tool in your work, please cite the following paper:
 
-Rasooly, I (2022). Going... going... wrong: a test of the level-k (and cognitive hierarchy) models of bidding behaviour. Journal of Political Economy Microeconomics.
+Rasooly, I (2023). Going... going... wrong: a test of the level-k (and cognitive hierarchy) models of bidding behaviour. Journal of Political Economy Microeconomics.
